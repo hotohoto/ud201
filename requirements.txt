@@ -3,3 +3,4 @@ black
 numpy
 pandas
 scipy
+statsmodels
